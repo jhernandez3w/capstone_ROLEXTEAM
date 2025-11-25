@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="bdterminada" id="8FD936E9-5AB9-3B89-8BB7-671057528AC6" version="3.5">
-<createdBy>Patricio</createdBy>
-<createdTime>2025-10-16 22:08:38 UTC</createdTime>
-<ownerDesignName>bdtesis</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>8FD936E9-5AB9-3B89-8BB7-671057528AC6</designId>
-</OSDM_Design>
